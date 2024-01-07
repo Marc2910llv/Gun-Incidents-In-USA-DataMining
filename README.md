@@ -1,7 +1,7 @@
 # Data Analysis Project - Gun Incidents in the USA
 
 ## Project Information
-- **Authors:** Patxi Juaristi and Marc Villalonga
+- **Authors:** Patxi Juaristi Pagegi and Marc Llobera Villalonga
 - **Date:** 08-01-2024
 - **Subject:** Data Mining
 
